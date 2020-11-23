@@ -4,3 +4,8 @@
 # Ignore Gradle build output directory
 build
 /.nb-gradle/
+/VKO4/viikko4/MaksukorttiMockito/.nb-gradle/
+/VKO4/viikko4/MockitoDemo/.nb-gradle/
+/VKO4/MaksukorttiMockito/.nb-gradle/
+/VKO4/MockitoDemo/.nb-gradle/
+/VKO4/IntJoukkoSovellus/.nb-gradle/
