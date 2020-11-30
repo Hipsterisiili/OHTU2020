@@ -1,2 +1,2 @@
 # OHTU2020
-Ohjelmistotuotanto-kurssin tehtävien palautusrepositorio
+Ohjelmistotuotanto-kurssin vko4 tehtävät
