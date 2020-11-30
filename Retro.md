@@ -1,7 +1,7 @@
 ### Retrospektiivi
-<b>
-Teimme miniprojektimme toisen sprintin lopussa retrospektiivin glad/sad/mad-menetelmällä eli lisäsimme virtuaaliselle taskboardille kukin muutamia havaintoja projektin etenemisestä kuluneella sprintillä. Havainnot kuuluivat jonkin kolmesta mahdollisesta otsikosta alle:<b>
-GLAD: Asioita, jotka ovat olleet helppoja/onnistuneet viikolla<b>
+<br>
+Teimme miniprojektimme toisen sprintin lopussa retrospektiivin glad/sad/mad-menetelmällä eli lisäsimme virtuaaliselle taskboardille kukin muutamia havaintoja projektin etenemisestä kuluneella sprintillä. Havainnot kuuluivat jonkin kolmesta mahdollisesta otsikosta alle:<br>
+GLAD: Asioita, jotka ovat olleet helppoja/onnistuneet viikolla<br>
 SAD: Asioita, jotka ovat olleet vaikeita/epäonnistuneet viikolla<b>
 MAD: Asioita, jotka ovat haitanneet työntekoa tai olleet muuten ikäviä<b>
 Tekstikentälle tuli paljon odottamianikin havaintoja: Koodin ulkoasu, ryhmän motivaatio sekä toimiva kommunikaatio todettiin hyviksi. Toisaalta projektin aikarajat sekä vaikeat tehtävät esintyivät sad-otsikon alla. Häiritsevinä asioina mainittiin omien laitteiden ajoittainen takkuaminen sekä projektiin liittymättömät elämäntilanteet.<b>
