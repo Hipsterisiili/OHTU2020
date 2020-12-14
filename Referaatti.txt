@@ -1,0 +1,11 @@
+Kenny Heinonen Ryhmätyö ohjelmistokehityksessä - referaatti
+
+Heinonen kertoo kandidaatintutkielmassaan tiimin jäsenten luonteenpiirteiden vaikutuksista projektin sujuvuuteen ketterissä ohjelmistokehityksen malleissa, erityisesti Scrumissa ja XP:ssä. Persoonallisuutta hän havainnollistaa Myers-Briggsin neljää luonteenpiirrettä tarkastelevaa tyyppi-indikaattoria käyttäen. 
+
+Hän toteaa ekstroverttiuden ja ajattelevuuden olevan suotuisia piirteitä vaatimusmäärittelyssä. Suunnitteluvaiheessa hän taas toteaa intuitiivisuuden ja ajattelevuuden olevan eduksi. Toteutusvaiheeseen sopiviksi piirteiksi Heinonen nimittää introverttiyden, tosiasiallisuuden sekä ajattelevuuden, tosin pienessä tiimissä ekstroverttiuden hyödyt saattavat korostua. Testausvaiheeseen sopivat tosialliset ja järjestelmälliset henkilöt ja ylläpitoon suositellaan tosiasiallisia ja spontaaneja työntekijöitä.
+
+Työssään Heinonen myös esittelee keinoja, joilla opiskelijoiden ryhmätyötaitoja voitaisiin valmistaa työelämään jo korkeakoulututkinnon aikana. 
+
+Sopiviksi tavoiksi rohkaista kommunikointiin hän nimittää vuorovaikutteisen luokkahuoneen (opettaja ohjastaa oppilaita keskustelemaan keskenään aiheista), tarkkailija-kommunikoija-rakentaja -harjoituksen (harjoittelijat kommunikoivat keskenään rakenusohjeita sanalliseti näyttämättä itse ohjeita) sekä Mine/Ours -strategian (ryhmän jäsenet ratkaisevat kaikki saman ongelman ja näitä ratkaisuja vertaillaan ja niiden pohjalta selvitetään paras toimintamalli).
+
+Itse ryhmätyötä voidaan harjoitella esimerkiksi projektioppimisella (ratkaistaan monimutkainen ongrlma tutkimusprosessin avulla), Rocking the boat (tutustutetaan harjoittelijat etukäteen erilaisiin sosiaalisiin rooleihin, jotka he saattavat omaksua, jotta he tunnistaisivat sudenkuopat ennalta) sekä suojattu kananmuna (Harjoittelijat koettavat ryhmänä ratkaista käytännön pulmaa kananmuna suojaamisesta).
